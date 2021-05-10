@@ -34,7 +34,7 @@ module DISP9
 
     use Data_Struct
 
-    implicit none ! ÀÚµ¿¼±¾ğ ¹æÁö
+    implicit none ! Ã€ÃšÂµÂ¿Â¼Â±Â¾Ã° Â¹Ã¦ÃÃ¶
 
     public Plane_Stiffness
     public Plane_Load
