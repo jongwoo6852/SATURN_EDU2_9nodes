@@ -1,0 +1,7 @@
+
+Debug|x64
+Debug|x64VFFortranCompilerTool
+Debug|x64
+VFLinkerTool
+Debug|x64VFMidlToolRelease|x64Release|x64VFFortranCompilerToolRelease|x64
+VFLinkerToolRelease|x64VFMidlTool
